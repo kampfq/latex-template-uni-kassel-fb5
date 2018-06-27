@@ -1,3 +1,11 @@
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/kampfq/latex-template-uni-kassel-fb5graphs/commit-activity)
+
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+
+
+
 # Latex Template
 
 Dieses Template nutze ich für Abgaben an der Universität Kassel.
